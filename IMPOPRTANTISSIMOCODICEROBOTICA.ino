@@ -1,3 +1,4 @@
+//before loading this code in arduino ide download the library MFRC522 
 #include <SPI.h>
 #include <MFRC522.h>
 
